@@ -1,37 +1,37 @@
-<!DOCTYPE html>
-<html lang="de">
-<head>
-<meta charset="UTF-8">
-<title>C – Core / Circle / Connection</title>
-<style>
-  body { background:#000; color:#eee; font-family:Arial; padding:40px; }
-  .box { background:#111; border:1px solid #333; padding:20px; margin-bottom:20px; }
-  h1 { text-align:center; color:#44ff88; }
-</style>
-</head>
+# C – Core / Circle / Connection
 
-<body>
+## Zweck
+C ist die vierte Achse des virtuellen Raums.  
+Sie bildet den Kern, den Kreis und die Verbindung.
 
-<h1>C – Core / Circle / Connection</h1>
+Q → E → Y → C → xµz
 
-<div class="box">
-  <h2>Geometrie: Kreis‑Core</h2>
-  <p>C bildet den Kern und die Verbindung im virtuellen Raum.</p>
-</div>
+---
 
-<div class="box">
-  <h2>Frequenz: 4040 Hz</h2>
-  <p>Die Kernfrequenz für Verbindung und Stabilität.</p>
-</div>
+## Identität
+- CORE: C
+- VERSION: 1.0
+- CODE: RAW
+- AXIS: C‑Axis
+- EBENE: V4
+- FREQUENZ: 4040 Hz
+- GEOMETRIE: Kreis‑Core
+- STATUS: Aktiv
 
-<div class="box">
-  <h2>Virtuelle Achse: C‑Axis</h2>
-  <pre>
-C = Core
-C = Circle
-C = vierte Achse der V‑Axis
-  </pre>
-</div>
+---
 
-</body>
-</html>
+## Funktionen
+- Kernbildung  
+- Kreisverbindung  
+- Übergang zu xµz  
+
+---
+
+## Dateien
+- index.html – Geometrie & Frequenz  
+- ID.html – Achsen‑Identität  
+
+---
+
+## Hinweis
+C ist der Kern der V‑Axis.
